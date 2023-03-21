@@ -45,11 +45,11 @@ async def start(bot, update):
                 [
                     [
                         InlineKeyboardButton(
-                            "⚡ Source Code ⚡", url="https://github.com/Selfie-bd/UrlUploadDcBot"
+                            "⚡ Source Code ⚡", url="https://t.me/A7_SYR"
                         ),
-                        InlineKeyboardButton("⚜️ Channel ⚜️", url="https://t.me/Groupdc"),
+                        InlineKeyboardButton("⚜️ Channel ⚜️", url="https://t.me/A7_SYR"),
                     ],
-                    [InlineKeyboardButton("🚸 Powered by 🚸", url="https://t.me/selfiebd")],
+                    [InlineKeyboardButton("🚸 Powered by 🚸", url="https://t.me/A7_SYR")],
                 ]
             )
             
